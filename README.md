@@ -83,3 +83,14 @@ Analysis of sample data sets with visualizations
 - Insufficient resources to manage the current scale, needing experienced practice to assist before expanding through the hiring process.
 - Lack of guidance to ensure a smooth transition to an IPO at the end of the year.
 - A need to learn data best practices to manage the challenges of big data.
+
+### Client Expectation
+- A audit of big data practice
+- Recommendation for IPO
+- An analysis for popular content
+
+### Team
+![image](https://github.com/kalilalincen/Accenture-Data-Analytics-and-Visualisation/assets/155357106/1dd43cad-9a64-4a4b-a1f9-f8fd54c0ad2d)
+
+Based on my role and task assignment, I will be primarily working on the analysis of popular content.
+
