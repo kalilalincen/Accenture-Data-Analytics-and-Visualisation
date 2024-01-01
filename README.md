@@ -92,11 +92,12 @@ Analysis of sample data sets with visualizations
 - Recommendation for IPO
 - An analysis for popular content
 
-## Dataset
-A total of 7 data sets - each data set contains different columns and values.
+## Data
+### Datasets
+A total of 7 datasets, each data set contains different columns and values.
 ![image](https://github.com/kalilalincen/Accenture-Data-Analytics-and-Visualisation/assets/155357106/56e78638-620e-4a19-8519-02bc07c79fcb)
 
-### A data model
+### Data model
 This shows the relationships between all of the data sets, as well as any links that you can use to merge tables.
 ![image](https://github.com/kalilalincen/Accenture-Data-Analytics-and-Visualisation/assets/155357106/92d3cbec-8dff-4fa1-8dff-39bcab30d12b)
 
