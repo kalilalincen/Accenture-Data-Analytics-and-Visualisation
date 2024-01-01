@@ -101,10 +101,15 @@ A total of 7 datasets, each data set contains different columns and values.
 This shows the relationships between all of the data sets, as well as any links that you can use to merge tables.
 ![image](https://github.com/kalilalincen/Accenture-Data-Analytics-and-Visualisation/assets/155357106/92d3cbec-8dff-4fa1-8dff-39bcab30d12b)
 Definitions of different data types:
+
 String - Sequence of characters, digits, or symbols—always treated as text
+
 UUID - Universally Unique Identifiers
+
 Array - List with a number of elements in a specific order—typically of the same type
+
 Integer - Numeric data type for numbers without fractions
+
 Timestamp - Number of seconds that have elapsed since midnight (00:00:00 UTC), 1st January 1970 (Unix time)
 
 
