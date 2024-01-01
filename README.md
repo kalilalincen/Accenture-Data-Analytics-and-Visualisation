@@ -112,5 +112,8 @@ Integer - Numeric data type for numbers without fractions
 
 Timestamp - Number of seconds that have elapsed since midnight (00:00:00 UTC), 1st January 1970 (Unix time)
 
+### Selected Datasets for this work
 
+Based on the client's requirements, an analysis of their content categories is needed, highlighting the top 5 categories with the highest popularity. According to the document, popularity is quantified by the 'Score' assigned to each reaction type. Therefore, you should begin by the Content dataset to the Reaction dataset, which in turn links to the Reaction Types dataset containing the 'Score'.
 
+content ID, category, content type, reaction type, and reaction score.
