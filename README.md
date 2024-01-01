@@ -13,7 +13,7 @@ Location of HQ: San Francisco
 
 Number of employees: 250
 
-### Client background:
+Client background:
 
 Social Buzz was founded by two former engineers from a large social media conglomerate, one
 from London and the other from San Francisco. They left in 2008 and both met in San
@@ -36,8 +36,6 @@ requires extremely sophisticated and expensive technology to manage and maintain
 250 people working at Social Buzz, 200 of them are technical staff working on maintaining this
 highly complex technology.
 
-### Reasons for external assistance:
-
 Up until this point, they have not relied on any third party firms to help them get to where
 they are. However there are 3 main reasons why they are now looking at bringing in external
 expertise:
@@ -54,8 +52,6 @@ their business, they have a massive amount of data so they are keen on
 understanding how the world's biggest companies manage the challenges of big
 data.
 
-### Client Expectation:
-
 To start our engagement with Social Buzz, we are running a 3 month initial project in order
 to prove to them that we are the best firm to work with. They are expecting the following:
 
@@ -64,7 +60,7 @@ to prove to them that we are the best firm to work with. They are expecting the 
 - An analysis of their content categories that highlights the top 5 categories with the
 largest aggregate popularity
 
-### Tasks to be delegated:
+Tasks to be delegated:
 - Creation of an up-to-date big data best practices presentation
 - Extraction of sample data sets using SQL
 - On-site audit of their data-center
