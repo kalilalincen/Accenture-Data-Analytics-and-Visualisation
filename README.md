@@ -1,5 +1,4 @@
 # Accenture Social Buzz Project for Data Analytics and Visualisation
-
 ## Project Description
 
 Mae Mulligan, my Managing Director at Accenture and the client lead for Social Buzz, has reviewed their brief and formed a diverse expert team for the project. She has scheduled a project kick-off call with this team for tomorrow morning and shared the brief for review:
@@ -37,7 +36,7 @@ requires extremely sophisticated and expensive technology to manage and maintain
 250 people working at Social Buzz, 200 of them are technical staff working on maintaining this
 highly complex technology.
 
-### Reasons for external assistance
+### Reasons for external assistance:
 
 Up until this point, they have not relied on any third party firms to help them get to where
 they are. However there are 3 main reasons why they are now looking at bringing in external
@@ -55,7 +54,7 @@ their business, they have a massive amount of data so they are keen on
 understanding how the world's biggest companies manage the challenges of big
 data.
 
-### Client Expectation
+### Client Expectation:
 
 To start our engagement with Social Buzz, we are running a 3 month initial project in order
 to prove to them that we are the best firm to work with. They are expecting the following:
@@ -83,3 +82,8 @@ Analysis of sample data sets with visualizations
 
 ## Brief Analysis
 ### Client & Business Problems
+- 500 million active users each month, leading to a need for advisory support to improve the scaling process.
+- Data management challenges with a vast amount of unstructured data daily, including text, images, videos, and GIFs, and 200 out of 250 technical staff members who struggle to manage and maintain complex technology.
+- Insufficient resources to manage the current scale, needing experienced practice to assist before expanding through the hiring process.
+- Lack of guidance to ensure a smooth transition to an IPO at the end of the year.
+- A need to learn data best practices to manage the challenges of big data.
