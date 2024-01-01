@@ -77,3 +77,4 @@ Analysis of sample data sets with visualizations
 - Full documentation of the process that we can guide them through for IPO
 
 ## Brief Analysis
+### Client & Business Problems
