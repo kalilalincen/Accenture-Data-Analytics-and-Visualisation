@@ -1,4 +1,4 @@
-# Accenture-Data-Analytics-and-Visualisation
+# Accenture Social Buzz Project for Data Analytics and Visualisation
 
 ## Project Description
 
