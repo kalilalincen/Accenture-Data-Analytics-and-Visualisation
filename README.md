@@ -14,7 +14,8 @@ Location of HQ: San Francisco
 
 Number of employees: 250
 
-Client background:
+### Client background:
+
 Social Buzz was founded by two former engineers from a large social media conglomerate, one
 from London and the other from San Francisco. They left in 2008 and both met in San
 Francisco to start their business. They started Social Buzz because they saw an opportunity to
@@ -60,7 +61,7 @@ to prove to them that we are the best firm to work with. They are expecting the 
 - An analysis of their content categories that highlights the top 5 categories with the
 largest aggregate popularity
 
-Tasks to be delegated:
+### Tasks to be delegated:
 - Creation of an up-to-date big data best practices presentation
 - Extraction of sample data sets using SQL
 - On-site audit of their data-center
