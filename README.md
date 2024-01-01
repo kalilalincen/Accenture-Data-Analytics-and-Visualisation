@@ -37,6 +37,8 @@ requires extremely sophisticated and expensive technology to manage and maintain
 250 people working at Social Buzz, 200 of them are technical staff working on maintaining this
 highly complex technology.
 
+### Reasons for external assistance
+
 Up until this point, they have not relied on any third party firms to help them get to where
 they are. However there are 3 main reasons why they are now looking at bringing in external
 expertise:
@@ -52,6 +54,8 @@ practice to help instead.
 their business, they have a massive amount of data so they are keen on
 understanding how the world's biggest companies manage the challenges of big
 data.
+
+### Client Expectation
 
 To start our engagement with Social Buzz, we are running a 3 month initial project in order
 to prove to them that we are the best firm to work with. They are expecting the following:
