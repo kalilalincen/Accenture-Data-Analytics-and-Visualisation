@@ -3,6 +3,9 @@
 
 Mae Mulligan, my Managing Director at Accenture and the client lead for Social Buzz, has reviewed their brief and formed a diverse expert team for the project. She has scheduled a project kick-off call with this team for tomorrow morning and shared the brief for review:
 
+### Team
+![image](https://github.com/kalilalincen/Accenture-Data-Analytics-and-Visualisation/assets/155357106/1dd43cad-9a64-4a4b-a1f9-f8fd54c0ad2d)
+
 Client name: Social Buzz
 
 Client industry: Social media & content creation
@@ -89,8 +92,5 @@ Analysis of sample data sets with visualizations
 - Recommendation for IPO
 - An analysis for popular content
 
-### Team
-![image](https://github.com/kalilalincen/Accenture-Data-Analytics-and-Visualisation/assets/155357106/1dd43cad-9a64-4a4b-a1f9-f8fd54c0ad2d)
 
-Based on my role and task assignment, I will be primarily working on the analysis of popular content.
 
